@@ -9,16 +9,16 @@ I'm a newly started data scientist with a strong enthusiasm for Python and machi
 - Upgrading ML comprehension
 
 
-## Languages and Tools 
+## Languages and Tools for data science
 <div>
 
-### Languages:
-| Python3 | JS |
-|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+### Main Language:
+| Python3 |
+|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
   
 
-### Best frameworks and main libraries for Python3:
+### Best frameworks and main libraries for Python:
 
 | Numpy | Pandas | Sklearn |
 |----------|----------|----------|
@@ -32,8 +32,32 @@ I'm a newly started data scientist with a strong enthusiasm for Python and machi
 |----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="plt" width="55" height="55"/> |
 
+
+## Languages and Tools for frontend
+<div>
+
+### Languages:
+| JS | HTML | CSS |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/> 
   
-### Other:
+
+### Best frameworks and main libraries for JS:
+
+| Vue | Nuxt | Tailwind |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="55" height="55"/>
+
+
+
+### Tools:
+
+| Supabase | Netlify |
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="55" height="55"/> |
+
+
+## Other:
 
 | Git |
 |----------|
