@@ -18,7 +18,7 @@ I'm a newly started data scientist with a strong enthusiasm for Python and machi
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
   
 
-### Best frameworks and main libraries for Python:
+### Frameworks and Libraries:
 
 | Numpy | Pandas | Sklearn |
 |----------|----------|----------|
@@ -26,7 +26,7 @@ I'm a newly started data scientist with a strong enthusiasm for Python and machi
 
 
 
-### Tools for Data Manipulation & Visualisation:
+### Data Manipulation & Visualisation:
 
 | Jupyter | MySQL | Plotly | Matpltlib |
 |----------|----------|----------|----------|
@@ -42,7 +42,7 @@ I'm a newly started data scientist with a strong enthusiasm for Python and machi
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/> 
   
 
-### Best frameworks and main libraries for JS:
+### Frameworks:
 
 | Vue | Nuxt | Tailwind |
 |----------|----------|----------|
