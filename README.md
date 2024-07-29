@@ -9,7 +9,7 @@ I'm a newly started data scientist with a strong enthusiasm for Python and machi
 - Upgrading ML comprehension
 
 
-## Languages and Tools for data science
+## Data Science
 <div>
 
 ### Main Language:
@@ -33,7 +33,7 @@ I'm a newly started data scientist with a strong enthusiasm for Python and machi
 | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="plt" width="55" height="55"/> |
 
 
-## Languages and Tools for frontend
+## Front End
 <div>
 
 ### Languages:
