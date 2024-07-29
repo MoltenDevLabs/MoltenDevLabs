@@ -1,7 +1,7 @@
 ### About Me:    
 I'm a newly started data scientist with a strong enthusiasm for Python and machine learning. I love diving into data to uncover insights, create compelling visualizations, and find innovative solutions. I'm all about writing clean, efficient code and continuously learning better techniques.
 
-### Working on: 🚀
+### Working on:
 
 - Refining my data science skills using kaggle
 - Refining my Python skills
